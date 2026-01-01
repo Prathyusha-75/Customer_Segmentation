@@ -10,8 +10,10 @@ The segmentation was performed in two approaches:
 
 the first one uses RFM scoring (assigned RFM score) and K-means clustering;
 the second raw calculated RFM variables and K-means clustering.
-Dataset
-The dataset includes sample sales data based on retail analytics and contains three years of sales. It comes from Kaggle and can be find here.
+
+Dataset:
+
+The dataset includes sample sales data based on retail analytics and contains three years of sales. It comes from Kaggle and can be find https://www.kaggle.com/datasets/kyanyoga/sample-sales-data.
 
 Motivation:
 
@@ -42,4 +44,4 @@ To run this project use Jupyter Notebook or Google Colab.
 
 You can run the scripts in the terminal:
 
-customers_segments.py
+Customer.py
